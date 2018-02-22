@@ -1,0 +1,79 @@
+#Anakin{
+	padding-right: 10px;
+    height: auto;
+    width: 130px;
+}
+
+
+#ObiWan{
+	padding-right: 10px;
+	padding-left: 10px;
+    height: 120px;
+    width: 130px;
+}
+
+#Revan{
+	padding-right: 10px;
+	padding-left: 10px;
+    height: 120px;
+    width: 130px;
+}
+
+#Vader{
+	padding-left: 10px;
+    height: 120px;
+    width: 130px;
+}
+
+#AnakinContainer{
+    width: 100%;
+    max-width: 200px;
+    padding: 30px;
+    margin: 0 0 0px;
+    background: #fff;
+    border: 1px solid green;
+	display: inline;
+	float: left;
+}
+
+
+#ObiContainer{
+	width: 100%;
+    max-width: 200px;
+    padding: 30px;
+    margin: 0 0 0px;
+    background: #fff;
+    border: 1px solid green;
+	display: inline;
+	float: left;
+}
+
+#RevanContainer{
+	width: 100%;
+    max-width: 200px;
+    padding: 30px;
+    margin: 0 0 0px;
+    background: #fff;
+    border: 1px solid green;
+	display: inline;
+	float: left;
+}
+
+#VaderContainer{
+	width: 100%;
+    max-width: 200px;
+    padding: 30px;
+    margin: 0 0 0px;
+    background: #fff;
+    border: 1px solid green;
+	display: inline;
+	float: left;
+}
+
+#yourCharacter{
+	clear: both;
+}
+
+#gameText{
+	clear: both;
+}
